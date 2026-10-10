@@ -140,41 +140,41 @@ All tools are free and run in the browser. Full list: [MolDraw free chemistry to
 
 Interactive 3D pages with 2D structure, shape, bond angles and facts. Hub: [3D molecule models](https://www.moldraw.com/molecules/).
 
-- [ 3D model](https://www.moldraw.com/molecules/acetone.html)
-- [ 3D model](https://www.moldraw.com/molecules/adrenaline.html)
-- [ 3D model](https://www.moldraw.com/molecules/ammonia.html)
-- [ 3D model](https://www.moldraw.com/molecules/aspirin.html)
-- [ 3D model](https://www.moldraw.com/molecules/atp.html)
-- [ 3D model](https://www.moldraw.com/molecules/benzene.html)
-- [ 3D model](https://www.moldraw.com/molecules/caffeine.html)
-- [ 3D model](https://www.moldraw.com/molecules/carbon-dioxide.html)
-- [ 3D model](https://www.moldraw.com/molecules/cholesterol.html)
-- [ 3D model](https://www.moldraw.com/molecules/citric-acid.html)
-- [ 3D model](https://www.moldraw.com/molecules/estradiol.html)
-- [ 3D model](https://www.moldraw.com/molecules/ethanol.html)
-- [ 3D model](https://www.moldraw.com/molecules/fructose.html)
-- [ 3D model](https://www.moldraw.com/molecules/glucose.html)
-- [ 3D model](https://www.moldraw.com/molecules/glycerol.html)
-- [ 3D model](https://www.moldraw.com/molecules/glycine.html)
-- [ 3D model](https://www.moldraw.com/molecules/hydrogen-chloride.html)
-- [ 3D model](https://www.moldraw.com/molecules/melatonin.html)
-- [ 3D model](https://www.moldraw.com/molecules/methane.html)
-- [ 3D model](https://www.moldraw.com/molecules/methanol.html)
-- [ 3D model](https://www.moldraw.com/molecules/oxygen.html)
-- [ 3D model](https://www.moldraw.com/molecules/ozone.html)
-- [ 3D model](https://www.moldraw.com/molecules/propane.html)
-- [ 3D model](https://www.moldraw.com/molecules/serotonin.html)
-- [ 3D model](https://www.moldraw.com/molecules/sucrose.html)
-- [ 3D model](https://www.moldraw.com/molecules/testosterone.html)
-- [ 3D model](https://www.moldraw.com/molecules/vanillin.html)
-- [ 3D model](https://www.moldraw.com/molecules/vitamin-c.html)
-- [ 3D model](https://www.moldraw.com/molecules/water.html)
+- [Acetone 3D model](https://www.moldraw.com/molecules/acetone.html)
+- [Adrenaline (epinephrine) 3D model](https://www.moldraw.com/molecules/adrenaline.html)
+- [Ammonia 3D model](https://www.moldraw.com/molecules/ammonia.html)
+- [Aspirin 3D model](https://www.moldraw.com/molecules/aspirin.html)
+- [ATP (adenosine triphosphate) 3D model](https://www.moldraw.com/molecules/atp.html)
+- [Benzene 3D model](https://www.moldraw.com/molecules/benzene.html)
+- [Caffeine 3D model](https://www.moldraw.com/molecules/caffeine.html)
+- [Carbon dioxide 3D model](https://www.moldraw.com/molecules/carbon-dioxide.html)
+- [Cholesterol 3D model](https://www.moldraw.com/molecules/cholesterol.html)
+- [Citric acid 3D model](https://www.moldraw.com/molecules/citric-acid.html)
+- [Estradiol (estrogen) 3D model](https://www.moldraw.com/molecules/estradiol.html)
+- [Ethanol 3D model](https://www.moldraw.com/molecules/ethanol.html)
+- [Fructose 3D model](https://www.moldraw.com/molecules/fructose.html)
+- [Glucose 3D model](https://www.moldraw.com/molecules/glucose.html)
+- [Glycerol 3D model](https://www.moldraw.com/molecules/glycerol.html)
+- [Glycine 3D model](https://www.moldraw.com/molecules/glycine.html)
+- [Hydrogen chloride 3D model](https://www.moldraw.com/molecules/hydrogen-chloride.html)
+- [Melatonin 3D model](https://www.moldraw.com/molecules/melatonin.html)
+- [Methane 3D model](https://www.moldraw.com/molecules/methane.html)
+- [Methanol 3D model](https://www.moldraw.com/molecules/methanol.html)
+- [Oxygen 3D model](https://www.moldraw.com/molecules/oxygen.html)
+- [Ozone 3D model](https://www.moldraw.com/molecules/ozone.html)
+- [Propane 3D model](https://www.moldraw.com/molecules/propane.html)
+- [Serotonin 3D model](https://www.moldraw.com/molecules/serotonin.html)
+- [Sucrose 3D model](https://www.moldraw.com/molecules/sucrose.html)
+- [Testosterone 3D model](https://www.moldraw.com/molecules/testosterone.html)
+- [Vanillin 3D model](https://www.moldraw.com/molecules/vanillin.html)
+- [Vitamin C (ascorbic acid) 3D model](https://www.moldraw.com/molecules/vitamin-c.html)
+- [Water 3D model](https://www.moldraw.com/molecules/water.html)
 
 ## MolDraw vs ChemDraw, MolView and ChemSketch
 
 | | MolDraw | ChemDraw | MolView | ChemSketch |
 |---|---|---|---|---|
-| Runs in browser, no install | Yes | Desktop app | Yes | Desktop app |
+| Runs in browser, no install | Yes | See vendor | Yes | See vendor |
 | Free to use | Yes | Paid licence | Yes | See vendor |
 | 2D structure drawing | Yes | Yes | Yes | Yes |
 | 3D viewer | Yes | See vendor | Yes | See vendor |
