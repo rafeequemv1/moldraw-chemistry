@@ -46,12 +46,9 @@ All tools are free and run in the browser. Full list: [MolDraw free chemistry to
 
 - [3D molecular model viewer](https://www.moldraw.com/tools/free-chem-tools/3d-molecular-model-viewer.html)
 - [Build a molecule](https://www.moldraw.com/tools/free-chem-tools/build-a-molecule.html)
-- [CAS number to structure](https://www.moldraw.com/tools/free-chem-tools/cas-number-to-structure.html)
 - [Chemical reaction drawer](https://www.moldraw.com/tools/free-chem-tools/chemical-reaction-drawer.html)
 - [Degree of unsaturation calculator](https://www.moldraw.com/tools/free-chem-tools/degree-of-unsaturation-calculator.html)
 - [Lewis structure generator](https://www.moldraw.com/tools/free-chem-tools/lewis-structure-generator.html)
-- [Molecular formula to structure](https://www.moldraw.com/tools/free-chem-tools/molecular-formula-to-structure.html)
-- [Name to structure](https://www.moldraw.com/tools/free-chem-tools/name-to-structure.html)
 - [Protein molecular weight calculator](https://www.moldraw.com/tools/free-chem-tools/protein-molecular-weight-calculator.html)
 - [SMILES to 3D structure converter](https://www.moldraw.com/tools/free-chem-tools/smiles-to-3d-structure-converter.html)
 - [SMILES to structure](https://www.moldraw.com/tools/free-chem-tools/smiles-to-structure.html)
@@ -62,6 +59,9 @@ All tools are free and run in the browser. Full list: [MolDraw free chemistry to
 
 ### Name, formula and identifier to structure
 
+- [CAS number to structure](https://www.moldraw.com/tools/free-chem-tools/cas-number-to-structure.html)
+- [Molecular formula to structure](https://www.moldraw.com/tools/free-chem-tools/molecular-formula-to-structure.html)
+- [Name to structure](https://www.moldraw.com/tools/free-chem-tools/name-to-structure.html)
 - [IUPAC name to SMILES converter](https://www.moldraw.com/tools/free-chem-tools/iupac-name-to-smiles-converter.html)
 
 ### File format and identifier converters
@@ -174,12 +174,12 @@ Interactive 3D pages with 2D structure, shape, bond angles and facts. Hub: [3D m
 
 | | MolDraw | ChemDraw | MolView | ChemSketch |
 |---|---|---|---|---|
-| Runs in browser, no install | Yes | Desktop app (web version via ChemDraw subscription) | Yes | Desktop app (Windows) |
-| Free to use | Yes | Paid licence | Yes | Free edition available |
+| Runs in browser, no install | Yes | Desktop app | Yes | Desktop app |
+| Free to use | Yes | Paid licence | Yes | See vendor |
 | 2D structure drawing | Yes | Yes | Yes | Yes |
-| 3D viewer | Yes | Yes (Chem3D) | Yes | Yes (3D viewer) |
-| NMR prediction | Yes | Yes | No | In paid add-ons |
-| Reaction drawing | Yes | Yes | No | Yes |
+| 3D viewer | Yes | See vendor | Yes | See vendor |
+| NMR prediction (built in, free) | Yes | See vendor | No | See vendor |
+| Reaction drawing | Yes | Yes | See vendor | Yes |
 
 Competitor details are based on their public product pages and may change; check each vendor for current information.
 
@@ -220,4 +220,3 @@ MolDraw is built by LabCanvas, which makes science drawing tools for students, e
 ## License
 
 This repository contains documentation only. MolDraw is proprietary software; its source code is not published. Screenshots and logos © LabCanvas.
-
