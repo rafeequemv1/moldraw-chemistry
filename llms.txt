@@ -11,14 +11,12 @@
 ## Tools
 
 ### Structure drawing and 3D models
+
 - [3D molecular model viewer](https://www.moldraw.com/tools/free-chem-tools/3d-molecular-model-viewer.html)
 - [Build a molecule](https://www.moldraw.com/tools/free-chem-tools/build-a-molecule.html)
-- [CAS number to structure](https://www.moldraw.com/tools/free-chem-tools/cas-number-to-structure.html)
 - [Chemical reaction drawer](https://www.moldraw.com/tools/free-chem-tools/chemical-reaction-drawer.html)
 - [Degree of unsaturation calculator](https://www.moldraw.com/tools/free-chem-tools/degree-of-unsaturation-calculator.html)
 - [Lewis structure generator](https://www.moldraw.com/tools/free-chem-tools/lewis-structure-generator.html)
-- [Molecular formula to structure](https://www.moldraw.com/tools/free-chem-tools/molecular-formula-to-structure.html)
-- [Name to structure](https://www.moldraw.com/tools/free-chem-tools/name-to-structure.html)
 - [Protein molecular weight calculator](https://www.moldraw.com/tools/free-chem-tools/protein-molecular-weight-calculator.html)
 - [SMILES to 3D structure converter](https://www.moldraw.com/tools/free-chem-tools/smiles-to-3d-structure-converter.html)
 - [SMILES to structure](https://www.moldraw.com/tools/free-chem-tools/smiles-to-structure.html)
@@ -28,9 +26,14 @@
 - [Protein viewer](https://www.moldraw.com/tools/protein-viewer/index.html)
 
 ### Name, formula and identifier to structure
+
+- [CAS number to structure](https://www.moldraw.com/tools/free-chem-tools/cas-number-to-structure.html)
+- [Molecular formula to structure](https://www.moldraw.com/tools/free-chem-tools/molecular-formula-to-structure.html)
+- [Name to structure](https://www.moldraw.com/tools/free-chem-tools/name-to-structure.html)
 - [IUPAC name to SMILES converter](https://www.moldraw.com/tools/free-chem-tools/iupac-name-to-smiles-converter.html)
 
 ### File format and identifier converters
+
 - [CAS number to SMILES converter](https://www.moldraw.com/tools/free-chem-tools/cas-number-to-smiles-converter.html)
 - [CID to SMILES converter](https://www.moldraw.com/tools/free-chem-tools/cid-to-smiles-converter.html)
 - [InChI to InChIKey converter](https://www.moldraw.com/tools/free-chem-tools/inchi-to-inchikey-converter.html)
@@ -57,6 +60,7 @@
 - [XYZ to SMILES converter](https://www.moldraw.com/tools/free-chem-tools/xyz-to-smiles-converter.html)
 
 ### NMR, mass spectrometry and spectroscopy
+
 - [Exact mass calculator](https://www.moldraw.com/tools/free-chem-tools/exact-mass-calculator.html)
 - [IR spectroscopy chart](https://www.moldraw.com/tools/free-chem-tools/ir-spectroscopy-chart.html)
 - [Mass spectrum predictor](https://www.moldraw.com/tools/free-chem-tools/mass-spectrum-predictor.html)
@@ -65,6 +69,7 @@
 - [Structure to NMR](https://www.moldraw.com/tools/free-chem-tools/structure-to-nmr.html)
 
 ### Drug-likeness and molecular properties
+
 - [Druglikeness calculator](https://www.moldraw.com/tools/free-chem-tools/druglikeness-calculator.html)
 - [Lipinski rule calculator](https://www.moldraw.com/tools/free-chem-tools/lipinski-rule-calculator.html)
 - [LogP calculator](https://www.moldraw.com/tools/free-chem-tools/logp-calculator.html)
@@ -72,6 +77,7 @@
 - [TPSA calculator](https://www.moldraw.com/tools/free-chem-tools/tpsa-calculator.html)
 
 ### Stoichiometry, solutions and general chemistry
+
 - [AP chemistry score calculator](https://www.moldraw.com/tools/free-chem-tools/ap-chemistry-score-calculator.html)
 - [Chemical equation balancer](https://www.moldraw.com/tools/free-chem-tools/chemical-equation-balancer.html)
 - [Dilution calculator](https://www.moldraw.com/tools/free-chem-tools/dilution-calculator.html)
